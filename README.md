@@ -12,4 +12,5 @@ Best prompts for getting schema analysis and sql query for staging, transformati
     prompt at this stage : https://chatgpt.com/share/66ed25b4-021c-8010-b895-a2e0e181c528
 
 * 3 `Now Make CTEs of these fact Tables to get Count by Customer Id, Max Total, by Invoice, `
+
     prompt at this stage : https://chatgpt.com/share/66ed25b4-021c-8010-b895-a2e0e181c528
