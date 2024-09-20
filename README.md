@@ -3,6 +3,6 @@ Best prompts for getting schema analysis and sql query for staging, transformati
 
 ## Schema Analysis 
 
-1 * `Analyze given schema and find me possible fact tables in the following schema:-`
+* 1 `Analyze given schema and find me possible fact tables in the following schema:-`
 
 
